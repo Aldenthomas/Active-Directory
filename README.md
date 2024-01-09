@@ -7,7 +7,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### https://www.youtube.com/watch?v=RWTgd160OU0
+- ### https://youtu.be/o6MpEFn268c
 
 <h2>Environments and Technologies Used</h2>
 
